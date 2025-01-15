@@ -11,7 +11,7 @@
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "@heroicons/react": "^2.0.18",
+    "@heroicons/vue": "^2.0.18",
     "@mui/material": "^5.13.1",
     "@stripe/firestore-stripe-payments": "^0.0.6",
     "@types/node": "20.2.3",
@@ -33,6 +33,7 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
+    "@heroicons/react": "^1.0.6",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.23",
     "tailwind-scrollbar": "^3.0.4",
